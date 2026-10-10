@@ -1,24 +1,24 @@
 # python-expense-tacker
 
-About the Project
+# About the Project
 
 The Python Expense Tracker is a beginner-friendly project designed to record and manage daily expenses using Python.
 
-Features
+# Features
 
 - Add expense details.
 - Store expense records.
 - Calculate the total expenses.
 - Display recorded expenses.
 
-Technologies Used
+# Technologies Used
 
 - Python 3
 - Lists
 - Dictionaries or tuples (depending on the implementation)
 - Basic calculations and conditional statements
 
-How to Run
+# How to Run
 
 1. Install Python 3.
 
@@ -30,13 +30,13 @@ How to Run
    
    python expense_tracker.py
 
-Learning Outcomes
+# Learning Outcomes
 
 - Practiced Python data structures.
 - Learned to collect and process user input.
 - Practiced expense calculations and program logic.
 
-Future Improvements
+# Future Improvements
 
 - Save expenses permanently in a CSV file.
 - Add expense categories.
