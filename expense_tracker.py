@@ -15,12 +15,12 @@ while True:
         if len(expense) == 0:
             print("No expenses recorded.")
         else:
-            for expense in expense:
-                print(expense["item"], "-rs", expense["amount"])
+            for item in expense:
+                print(item["item"], "-rs", item["amount"])
     elif choice =="3":
         total=0
-        for expense in expense:
-            total += expense["amount"]
+        for item in expense:
+            total += item["amount"]
         print("Total expenses: rs.", total)
     elif choice =="4":
         print("Thank you for using Expense Tracker!")
